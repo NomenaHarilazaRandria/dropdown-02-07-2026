@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	padding: 20px;
+	display: flex;
+	gap: 10px;
+}
+.hidden {
+	display: none;
+}
+.dropdown li {
+	list-style-type: none;
+	background-color: rgb(200,200,200);
+	padding: 5px;
+	text-align: center;
+}
+.dropdown li:hover {
+	background-color: rgb(150,150,150);
+}
+.dropdown {
+	position: relative;
+	flex: 1;
+}
+.dropdown ul {
+	position: absolute;
+	top: 100%;
+	left: 0;
+}
+button {
+	padding: 10px;
+	width: 150px;
+	border: none;
+	background-color: tomato;
+	border-radius: 5px;
+}
