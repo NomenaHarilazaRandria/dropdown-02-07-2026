@@ -82,5 +82,6 @@ This project is part of my Vanilla JavaScript learning journey before moving to 
 
 
 
-## Autor
+## Author
 
+Created by **Nomena**
