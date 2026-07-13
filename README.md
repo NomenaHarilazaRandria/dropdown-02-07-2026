@@ -80,7 +80,7 @@ This project is part of my Vanilla JavaScript learning journey before moving to 
 
 ## Live Demo
 
-.
+https://nomenaharilazarandria.github.io/dropdown-02-07-2026/
 
 ## Author
 
